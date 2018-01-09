@@ -8,4 +8,6 @@ gcc -o client client.cpp
 ./client hostname port# 
 
 For hostname type hostname in a terminal
-port is 20001
+or you can use IP address of the server pc
+instead of the hostname.
+A sample port is 20001
